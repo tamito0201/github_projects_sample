@@ -42,7 +42,9 @@ You are going to add a column here about what you manage as a task for each proj
 Describe tasks to be solved as tasks in the column. For tasks it is desirable to create titles as follows.
 
 ・ [Development] [Front] About, FAQ, Contact page
+
 ・ [Considerations] [DB] About DB performance tuning
+
 ・ [Design] [Front] Design adjustment of main.css
 
 - In Progress
