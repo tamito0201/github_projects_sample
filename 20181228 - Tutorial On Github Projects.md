@@ -80,4 +80,14 @@ None
 #### Proof of Work Done
 https://github.com/tamito0201/github_projects_sample/projects/1
 
+![line2.gif](https://ipfs.busy.org/ipfs/QmTMQmms4cRdeDPLKkowX3UX1NL2Kc3j9zmabAT2o25NWV)
 
+written by [tamito0201](https://steemit.com/@tamito0201)
+
+Block chain & web engineer.
+
+A free engineer engaged in the development of business application in the fields of web applications and finance, securities, communication, etc. After that, I experienced building virtual currency platform, I fascinated the development of DAO and DApps using block chain technology, and keep on hacking every day.
+
+Upvote, Follow, Resteem of everyone .
+
+[![8.png](https://ipfs.busy.org/ipfs/QmREB1MTzPsK1MSjTC35cFpu2qbJzqpk2W9YdHwAjvMrn5)](https://www.steemit-jp.site/)
