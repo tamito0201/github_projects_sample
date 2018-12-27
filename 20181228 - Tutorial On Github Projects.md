@@ -72,7 +72,8 @@ Converting the assignment to issue (problem) with "Convert to issue" allows you 
 
 What is important here is the problem number (eg # 3) displayed to the right of the title (heading). When problem number is committed to Git repository, problem number is associated with task number of commitment by describing problem number in commit sentence as follows.
 
-![5.png](https://ipfs.busy.org/ipfs/QmbrNNFSPWkC4gMh6FfWVqH9kF9bJ5SB6z4mbm1RhTd5Fy)
+
+![3.png](https://ipfs.busy.org/ipfs/QmUAgqi3JVRYXJvLnWp6Txsp1wNdx9MRWnj8hTngjfUuHM)
 
 By linking the issue numbers of commit and task management, it is possible to know how the commitment of the source code was corrected and how it committed, as well as the source code modifier, other developers Can be grasped.
 
