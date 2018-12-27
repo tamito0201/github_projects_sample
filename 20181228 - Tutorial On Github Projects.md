@@ -47,6 +47,7 @@ Describe tasks to be solved as tasks in the column. For tasks it is desirable to
 
 ・ [Design] [Front] Design adjustment of main.css
 
+
 - In Progress
 The person in charge initiates the above task and adds it to the column in order to manage the task which started work.
 
