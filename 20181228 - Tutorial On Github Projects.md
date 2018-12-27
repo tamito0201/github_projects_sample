@@ -13,7 +13,7 @@ https://github.com/tamito0201/github_projects_sample/
 #### 4.Tutorial Contents
 ##### 4.1 Introduction
 
-Many projects manage tasks using tools such as JIRA and Redmine as project management tools. In this tutorial I would like to describe how to use [GitHub Projects](https://help.github.com/categories/managing-your-work-on-github/) which can manage tasks relatively easily on Github.
+Many projects manage tasks using tools such as [JIRA](https://www.atlassian.com/software/jira) and [Redmine](http://redmine.jp/) as project management tools. In this tutorial I would like to describe how to use [GitHub Projects](https://help.github.com/categories/managing-your-work-on-github/) which can manage tasks relatively easily on Github.
 
 GitHub Projects help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs.
 
@@ -37,11 +37,47 @@ When creating a project board, a blank dashboard with nothing at first appears a
 
 You are going to add a column here about what you manage as a task for each project here. Your Github project will manage tasks with the following four statuses.
 
+ここにプロジェクト毎に何をタスクとして管理していくかカラムを追加していくことになる。Steemit Recipe Projectでは以下の4つのステータスでタスクを管理することとする。
+
+You are going to add a column here as to what to manage as a task for each project here. In this tutorial you manage tasks with the following four statuses.
+
+  - To Do
+
+Describe tasks to be solved as tasks in the column. For tasks it is desirable to create titles as follows.
+
+・ [Development] [Front] About, FAQ, Contact page
+・ [Considerations] [DB] About DB performance tuning
+・ [Design] [Front] Design adjustment of main.css
+
+- In Progress
+The person in charge initiates the above task and adds it to the column in order to manage the task which started work.
+
+To assign workers for tasks that have proceeded from "Todo" to "In Progress", click
+「...」 at the top right of the assignment, convert the assignment as issue (problem) with "Convert to issue" deep.
+
+- Code Review
+Add a task to the reviewer that needs to confirm the source here.
+- Done
+We manage the completed work here. However, when you complete a task completed in a certain milestone (such as one week unit), click 「...」 and archive the completed task with "Archive".
+
+![1.png](https://ipfs.busy.org/ipfs/QmWF64xFEDuYGz8KNTBvHpDNzoXcMeMM3wuk5WVDq82Fru)
+
+##### 4.3 Problem management
+
+Converting the assignment to issue (problem) with "Convert to issue" allows you to manage who is working, reminders for the problem, issues pointed out by other developers, issues pointed out in the review.
+
+![2.png](https://ipfs.busy.org/ipfs/QmZ64TMRsokUHqtGdATzZzKZBtaWgapEyF4FXZQQq5pBuh)
+
+What is important here is the problem number (eg # 3) displayed to the right of the title (heading). When problem number is committed to Git repository, problem number is associated with task number of commitment by describing problem number in commit sentence as follows.
+
+![5.png](https://ipfs.busy.org/ipfs/QmbrNNFSPWkC4gMh6FfWVqH9kF9bJ5SB6z4mbm1RhTd5Fy)
+
+By linking the issue numbers of commit and task management, it is possible to know how the commitment of the source code was corrected and how it committed, as well as the source code modifier, other developers Can be grasped.
 
 #### 5.Curriculum
-- None
+None
 
 #### Proof of Work Done
-https://github.com/tamito0201/github_projects_sample/
+https://github.com/tamito0201/github_projects_sample/projects/1
 
 
