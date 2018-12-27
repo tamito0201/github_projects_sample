@@ -49,14 +49,17 @@ Describe tasks to be solved as tasks in the column. For tasks it is desirable to
 <br>
 
 - In Progress
+
 The person in charge initiates the above task and adds it to the column in order to manage the task which started work.
 
 To assign workers for tasks that have proceeded from "Todo" to "In Progress", click
 「...」 at the top right of the assignment, convert the assignment as issue (problem) with "Convert to issue" deep.
 
 - Code Review
+
 Add a task to the reviewer that needs to confirm the source here.
 - Done
+
 We manage the completed work here. However, when you complete a task completed in a certain milestone (such as one week unit), click 「...」 and archive the completed task with "Archive".
 
 ![1.png](https://ipfs.busy.org/ipfs/QmWF64xFEDuYGz8KNTBvHpDNzoXcMeMM3wuk5WVDq82Fru)
